@@ -1,5 +1,5 @@
 # CF_Excel_GameCo
-**An end-to-end data analysis with Excel for a video games online store.**
+**An end-to-end data analysis with Excel for a video games online store.**<br>
 _Analysis performed for learning purposes with CareerFoundry educational platform_
 
 GameCo is a fictive video game seller present globally with its strongest markets in North America, Europe, and Japan. The goal of the analysis was to uncover insights from historical sales data to recommend changes in the marketing budget.
@@ -20,5 +20,7 @@ By exploring sales data of the North American region, I found out that the low n
 I found it very interesting to visualize the relationship between North American sales vs. Global sales, as I learned from exploration analysis that NA has the highest share in the globally sold games.
 
 In the final presentation for the management board of GameCo, I showcased my findings and put them in the context of the goal of the analysis. The understanding of GameCo was, that sales for the various geographic regions have stayed the same over time. By conducting the analysis, I challenged their expectations and recommended changes in the marketing budget for the next year. 
+
+The entire presentation is attached to this repository as PDF file.
 
 When working on this project, I learned to combine the most important components of descriptive analysis with functions and charts available in Excel. All this helped me to uncover and present valuable insights for GameCo.
